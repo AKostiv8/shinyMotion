@@ -29,15 +29,10 @@ ui <- MotionTemplate(navigation = list(
                        # )
                        )
                        )
-                       # p('134'),
-                       # selectInput('test', 'Test', choices = c(1, 2, 3)),
-                       # textOutput('Bla')
+
                      )
 
 server <- function(input, output, session) {
-  # output$widgetOutput <- renderMotionTemplate(
-  #   # MotionTemplate("Hello world!")
-  # )
 
   output$Bla <- renderText({
     print(input$Test2)
