@@ -1,0 +1,26 @@
+{
+    "id": "259F63E7",
+    "path": "~/Documents/GitHub/shinyMotion/R/MotionTemplate.R",
+    "project_path": "R/MotionTemplate.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1660670908210.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "20,100",
+        "scrollLine": "13"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1659794719,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1659794719,
+    "read_only": false,
+    "read_only_alternatives": []
+}

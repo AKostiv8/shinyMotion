@@ -1,0 +1,11 @@
+import { reactWidget } from 'reactR';
+import MotionTemplate from './MotionTemplate.js';
+import Navigation from './MainContent.js'
+
+reactWidget('MotionTemplate', 'output', {
+  MotionContainer: MotionTemplate
+});
+
+reactWidget('contentContainer', 'output', {
+  MainContent: Navigation
+});
