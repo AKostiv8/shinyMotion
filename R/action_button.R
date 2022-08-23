@@ -4,6 +4,9 @@
 #'
 #' @importFrom reactR createReactShinyInput
 #' @importFrom htmltools htmlDependency tags
+#' @import htmlwidgets
+#' @import mapview
+#' @import leaflet
 #'
 #' @export
 action_buttonInput <- function(

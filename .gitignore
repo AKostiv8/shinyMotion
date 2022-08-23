@@ -77,3 +77,4 @@ typings/
 
 *.Rproj.user*
 *.Rproj*
+.Rproj.user

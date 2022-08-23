@@ -1,0 +1,25 @@
+#address_text_input > div {
+      margin-top: 30px !important;
+}
+
+.mainContainer {
+    width: 100%;
+    display: inline-flex;
+}
+
+.MainContent {
+  height: 57vh !important;
+}
+
+.column30 {
+  width: 30%;
+}
+
+.column70 {
+  width: 70%;
+}
+
+.generateMapStyle {
+  left: 0 !important;
+  margin-top: 13vh !important;
+}

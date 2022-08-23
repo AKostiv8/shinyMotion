@@ -3,6 +3,8 @@
 #' <Add Description>
 #'
 #' @import htmlwidgets
+#' @import mapview
+#' @import leaflet
 #'
 #' @export
 MotionTemplate <- function(navigation = NULL,

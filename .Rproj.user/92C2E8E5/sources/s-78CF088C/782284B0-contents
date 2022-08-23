@@ -1,6 +1,0 @@
-# (uncomment to add a dependency)
-dependencies:
- - name: MotionTemplate
-   version: 1.0.0
-   src: htmlwidgets
-   script: MotionTemplate.js

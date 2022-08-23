@@ -1,0 +1,13 @@
+name: epi_dash
+title: epi_dash
+username:
+account: nolik2000
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6797936
+bundleId: 6228763
+url: https://nolik2000.shinyapps.io/epi_dash/
+when: 1661247803.55154
+lastSyncTime: 1661247803.55155
+asMultiple: FALSE
+asStatic: FALSE
